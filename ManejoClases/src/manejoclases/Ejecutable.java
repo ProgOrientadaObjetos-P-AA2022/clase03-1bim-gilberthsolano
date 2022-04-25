@@ -12,5 +12,13 @@ package manejoclases;
 public class Ejecutable {
     public static void main(String[] args) {
         Hospital hospital = new Hospital();
+        Hospital h2 = new Hospital();
+        Hospital hospitalLoja = new Hospital();
+        hospital.nombre="Isidro Ayora";
+        hospital.numerocamas=400;
+        hospital.presupuesto=45566605.50;
+                
+                
+        
     }
 }

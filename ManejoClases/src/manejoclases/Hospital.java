@@ -10,5 +10,7 @@ package manejoclases;
  * @author reroes
  */
 public class Hospital {
-    
+    String nombre;
+    int numerocamas;
+    double presupuesto;
 }
